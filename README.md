@@ -1,1 +1,4 @@
 # superstore-sales-dashboard-excel
+<p>It is an excel with different sheets having different pivot tables and ultimately an interactive *dashboard* that simplifies the insights of the `Superstore Sales` dataset downloaded from `www.kaggle.com`.
+<br>This dashboard explains the sales according to different product categories and sub-categories. It also shows the top 5 states having greater number of orders. There are various customers in the dataset e.g., Consumer, Corporate and Home Office. There's a bar chart explaining sales in different customer categories in every month. There is a pie chart that shows the percentage of orders in various regions like Central, West, South, East. Later, there are slicers where one can see the sales according to categories, sub-categories and different regions. On the top of slicers, there is total sales.
+</p>
